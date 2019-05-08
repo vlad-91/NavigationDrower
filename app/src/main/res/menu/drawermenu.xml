@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/db" android:title="Dashboared" android:icon="@drawable/ic_dashboard_black_24dp"/>
+    <item android:id="@+id/event" android:title="Events" android:icon="@drawable/ic_event_black_24dp"/>
+    <item android:id="@+id/search" android:title="Search" android:icon="@drawable/ic_search_black_24dp"/>
+    <item android:id="@+id/calculator" android:title="Calculator" android:icon="@drawable/ic_star_black_24dp"/>
+    <item android:id="@+id/game" android:title="Game" android:icon="@drawable/ic_games_black_24dp" />
+    <item android:id="@+id/maps" android:title="Maps" android:icon="@drawable/ic_map_black_24dp"/>
+
+
+</menu>
